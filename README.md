@@ -1,2 +1,2 @@
-# E-commerce-Product-Recommendation-w-Customer-Segmentation
-A university project for the Data Mining course about segmenting customers into categories then generating association rules and sending recommendations fit for each customer category.
+# Predictive Basket Analysis and Customer Clustering in E-Commerce Environments
+A Data Mining university project focused on personalizing the e-commerce experience. By analyzing transactional data, this project identifies distinct customer purchasing behaviors and leverages those insights to build a robust product recommendation system.
